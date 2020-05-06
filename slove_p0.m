@@ -1,5 +1,6 @@
 %This algorithm has accuracy problems
 %Matlab has built-in functions for sample distribution, which can be called directly
+%   norminv()
 clc;
 clear;
 miu=0;
